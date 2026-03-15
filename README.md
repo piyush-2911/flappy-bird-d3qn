@@ -4,14 +4,6 @@ This repository contains a Reinforcement Learning agent trained to play Flappy B
 
 ---
 
-## Performance Demo
-
-<p align="center">
-https://github.com/user-attachments/assets/ed6ce491-07eb-4645-b7d8-58dbf6f07d7f
-<i>Agent performance from pipe 30 to 120. Peak Reward: 726.9</i>
-</p>
-
----
 
 ## Technical Implementation
 
