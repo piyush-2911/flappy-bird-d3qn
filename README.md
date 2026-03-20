@@ -2,7 +2,9 @@
 
 This repository contains a Reinforcement Learning agent trained to play Flappy Bird using a **Dueling Double Deep Q-Network (D3QN)** architecture. The agent achieves high-tier performance, clearing over **100 pipes within 2,500 training episodes**.
 
-<video src="demo.mp4" controls width="600"></video>
+## Demo
+
+[![Watch Demo](https://img.shields.io/badge/Click%20to%20Watch-Demo-blue?style=for-the-badge)](https://github.com/user-attachments/assets/579e6576-fb02-4d55-9054-a4ee71a62fa4)
 
 ---
 
