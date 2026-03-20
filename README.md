@@ -2,6 +2,8 @@
 
 This repository contains a Reinforcement Learning agent trained to play Flappy Bird using a **Dueling Double Deep Q-Network (D3QN)** architecture. The agent achieves high-tier performance, clearing over **100 pipes within 2,500 training episodes**.
 
+<video src="demo.mp4" controls width="600"></video>
+
 ---
 
 
