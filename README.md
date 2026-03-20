@@ -6,8 +6,6 @@ This repository contains a Reinforcement Learning agent trained to play Flappy B
 
 [![Watch Demo](https://img.shields.io/badge/Click%20to%20Watch-Demo-blue?style=for-the-badge)](https://github.com/user-attachments/assets/579e6576-fb02-4d55-9054-a4ee71a62fa4)
 
----
-
 
 ## Technical Implementation
 
@@ -25,7 +23,6 @@ The model utilizes a **hidden dimension of 256 units**. This capacity is suffici
 ### Experience Replay
 A replay buffer of size \(10^5\) is used to store and sample transitions, reducing temporal correlation during training updates.
 
----
 
 ## Requirements and Usage
 
@@ -35,7 +32,6 @@ A replay buffer of size \(10^5\) is used to store and sample transitions, reduci
 pip install gymnasium flappy-bird-gymnasium torch matplotlib
 ```
 
----
 
 ## Inference
 
